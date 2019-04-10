@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\HomeWork2\HomeWork2\bin\Debug\Database.mdf
+C:\Users\User\source\repos\HomeWork2\HomeWork2\bin\Debug\Database_log.ldf
+C:\Users\User\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\User\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\User\source\repos\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\User\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\User\source\repos\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
